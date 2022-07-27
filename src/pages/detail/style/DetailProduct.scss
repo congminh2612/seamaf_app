@@ -1,0 +1,192 @@
+.page-top-info {
+    background: #f8f7f7;
+    padding: 20px 0 10px;
+}
+.page-top-info h4 {
+    color: #414141;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.site-pagination {
+    font-size: 14px;
+    font-weight: 600;
+    color: #414141;
+}
+.site-pagination a {
+    display: inline-block;
+    font-size: 14px;
+    color: #414141;
+}
+.back-link {
+    padding-bottom: 50px;
+}
+.back-link a {
+    font-size: 12px;
+    color: #414141;
+}
+.product-pic-zoom {
+    margin-bottom: 35px;
+}
+img {
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.product-thumbs-track {
+    width: 1200px;
+}
+
+.product-details .p-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #414141;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+}
+.product-details .p-price {
+    font-size: 24px;
+    color: #414141;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.product-details .p-stock {
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
+    color: #414141;
+    margin-bottom: 10px;
+}
+.product-details .p-stock span {
+    color: #f51167;
+}
+.quantity{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.quantity p {
+    float: left;
+    margin-right: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #414141;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+.quantity .pro-qty {
+    width: 94px;
+    height: 36px;
+    border: 1px solid #ddd;
+    padding: 0 15px;
+    border-radius: 40px;
+    float: left;
+}
+.quantity .pro-qty .qtybtn {
+    width: 15px;
+    display: block;
+    float: left;
+    line-height: 36px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+    color: #404040;
+}
+.quantity .pro-qty input {
+    width: 28px;
+    float: left;
+    border: none;
+    height: 36px;
+    line-height: 40px;
+    padding: 0;
+    font-size: 14px;
+    text-align: center;
+    background-color: transparent;
+}
+.quantity .pro-qty .qtybtn {
+    width: 15px;
+    display: block;
+    float: left;
+    line-height: 36px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+    color: #404040;
+}
+.product-details .site-btn {
+    min-width: 190px;
+}
+.site-btn {
+    display: inline-block;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    min-width: 167px;
+    padding: 18px 47px 14px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    background: #f51167;
+    color: #fff;
+    line-height: normal;
+    cursor: pointer;
+    text-align: center;
+}
+.site-btn:hover {
+    color: #fff;
+}
+.accordion-area {
+    margin-top: 50px;
+    border-top: 2px solid #e1e1e1;
+}
+.accordion-area .panel {
+    border-bottom: 2px solid #e1e1e1;
+}
+.accordion-area .panel-link{
+    text-align: left;
+    position: relative;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 700;
+    color: #414141;
+    padding: 0;
+    text-transform: uppercase;
+    line-height: 1;
+    cursor: pointer;
+    border: none;
+    min-height: 69px;
+    background-color: transparent;
+    border-radius: 0;
+}
+.accordion-area .panel-body {
+    padding-top: 10px;
+}
+.accordion-area .panel-body {
+    padding-top: 10px;
+}
+.accordion-area .panel-body h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.accordion-area .panel-body p {
+    color: #8f8f8f;
+    margin-bottom: 25px;
+    line-height: 1.8;
+}
+.accordion-area .panel-body p span {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f51167;
+}
+.panel{
+    border-bottom: 2px solid #e1e1e1;
+}
+.section-title {
+    text-align: center;
+}
+.related-product-section .section-title h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
